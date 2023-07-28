@@ -1,3 +1,5 @@
+__version__ = '5.2.1'
+
 def add(a,b):
     return a+b
 

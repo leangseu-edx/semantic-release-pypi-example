@@ -1,0 +1,11 @@
+{
+  "name": "semantic-release-pypi-example",
+  "version": "1.0.0",
+  "repository": "git+https://github.com/leangseu-edx/semantic-release-pypi-example.git",
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leangseu-edx/semantic-release-pypi-example/issues"
+  },
+  "homepage": "https://github.com/leangseu-edx/semantic-release-pypi-example#readme"
+}
